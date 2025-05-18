@@ -1,0 +1,1 @@
+docker run --name qc_benchmark_container -v /Users/di35hef/Projects/quantumcompfs/benchmarks:/home/ctminh/shared -it qc_env_image 

@@ -1,0 +1,1 @@
+docker run --name qc_qulrb_container -v /Users/di35hef/Projects/qulrb:/home/ctminh/shared -it qc_env_image 

@@ -1,0 +1,1 @@
+docker build -t qc_env_image .
